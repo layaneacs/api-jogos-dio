@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\layane.costa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\layane.costa\\.nuget\\packages"
+    ]
+  }
+}
